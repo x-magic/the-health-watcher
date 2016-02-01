@@ -1,0 +1,1 @@
+<span id="flash-<?php echo h($key) ?>"><?php echo h($message) ?></span>
