@@ -32,6 +32,7 @@ This project is licensed under MIT license.
 > SOFTWARE.
 
 This project also uses following open source softwares: 
+* [CakePHP](http://cakephp.org/) - MIT License
 * [Twitter Bootstrap](https://getbootstrap.com) - MIT License
 * [jQuery](https://jquery.org) - MIT License
 * [Google Fonts](https://www.google.com/fonts) - APLv2 License
