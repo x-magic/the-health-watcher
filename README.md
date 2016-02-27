@@ -1,11 +1,13 @@
-# Health Watcher
-Project *Hard Boiled Egg* is based on CakePHP, Bootstrap and jQuery. 
+# Project Hard Boiled Egg
+This is my final semester project, as a part of FIT5120 "Industry Experience Project", during studying in Master of IT Professional, Monash University. 
 
-This is my final semester project during studying in Master of IT Professional, Monash University. 
+Project *Hard Boiled Egg*, also known as *Health Watcher*, is a website under a given topic *Looking Forward*, made for aged group in community to help them with health information and tips. The website is based on CakePHP, Bootstrap and jQuery. 
 
 ---
 
-Demo of code is accessible at <https://thewatcher.tk>. 
+Demo of code was accessible at <https://thewatcher.tk> but payment plan has already expired. You are always welcomed to host this site locally and play around. 
+
+Special thanks to [Kalle Alberg](mailto:kalle.alberg@navii.se) for security suggestions. 
 
 ---
 
