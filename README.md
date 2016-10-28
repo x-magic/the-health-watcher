@@ -6,12 +6,14 @@ Project *Hard Boiled Egg*, also known as *Health Watcher*, is a website under a 
 ## Demonstration
 Demo of code was accessible at <https://thewatcher.tk> but payment plan has already expired. You are always welcomed to host this site locally and play around. 
 ## Acknowledgement
+This is a result of comprehensive teamwork of team TWO-O-TWO, consist of me, Bu, Phoebe and Anchit. 
+
 Special thanks to [Kalle Alberg](mailto:kalle.alberg@navii.se) for security suggestions. 
 ## License
 This project is licensed under MIT license. 
 > The MIT License (MIT)
 > 
-> Copyright (c) 2016 Bill Haofei Gong et al.
+> Copyright (c) 2016 Bill Haofei Gong, Qingchen Bu, Phoebe Xuefei Wang and Anchit Ishpunhani.
 > 
 > Permission is hereby granted, free of charge, to any person obtaining a copy
 > of this software and associated documentation files (the "Software"), to deal
